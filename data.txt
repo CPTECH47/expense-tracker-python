@@ -1,0 +1,3 @@
+786,cake
+500,gym
+200,shopping
